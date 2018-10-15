@@ -1,6 +1,3 @@
-# liri-node-app
-LIRI-app
-
 Welcome to the LIRI app.
 
 LIRI will is a command line node app that takes in parameters and gives you back data.  Below are the commands you can enter and what they return
